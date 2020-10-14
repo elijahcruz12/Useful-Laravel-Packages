@@ -11,7 +11,7 @@ To better allow you to find packages, we have sorted them based on the language 
 
 ## Contributing
 
-If you would like to contribute a package, please open an issue **FIRST** before doing a PR. This is to ensure that you are the only one working on a package. If a package should be updated, than please be open an issue for that as well.
+If you would like to contribute a package, please open an issue **FIRST** before doing a PR. This is to ensure that you are the only one working on a package. We have added an issue template to make things easier. If a package should be updated, than please be open an issue for that as well. Please note that a PR will be denied if it does not have an issue open for it.
 
 We have created a ``template.md`` file, to allow you to have a starting point for a packages markdown listing.
 
