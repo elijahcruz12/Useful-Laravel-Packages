@@ -3,7 +3,7 @@
 In this repository, we list useful packages that can be integrated with laravel.In
 
 
-**Please note that we will not accept any spam PR's and will report them. The only way a PR is to be added is if it genuinly is a good pull request. However, we do usually recommend doing one package per PR, to be able to review them better.**
+**Please note that we will not accept any spam PR's and will report them. A PR request must be creating a markdown file adding a useful project, with an issue sharing it. I usually recommend doing one package per PR, to be able to review them better.**
 
 ## How to use
 
