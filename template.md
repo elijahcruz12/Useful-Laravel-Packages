@@ -2,9 +2,9 @@
 
 ## Author Name
 
-## Compatible with (Laravel v7 - Laravel v8) -or- Laravel v7+
+## (KNOWN to be [Optional]) Compatible with (Laravel v7 - Laravel v8) -or- Laravel v7+
 
-[comment]: <> (This where you can add version badges.)
+[comment]: <> (This is where you can add version badges.)
 
 This is where the description goes. Please be sure to be very descriptive about the package. You can even use some or all of the original description.
 
