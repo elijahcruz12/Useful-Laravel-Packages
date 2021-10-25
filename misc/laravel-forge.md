@@ -16,4 +16,4 @@ Pricing starts at $12/month for a single server and unlimited sites/deployments,
 
 You can use Linode, DigitalOcean, AWS, Vulture, as well as any other custom VPS setup (With some configuration) to host your website.
 
-[Website]([https://](https://forge.laravel.com/))
+[Website](https://forge.laravel.com/)
