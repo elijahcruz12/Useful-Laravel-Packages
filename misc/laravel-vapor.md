@@ -25,4 +25,4 @@ During deployment, Vapor automatically uploads and serves your assets via S3 or 
 Vapor is $39 per month, or $399 per year. This gives you unlimited everything, however please note that this does not include your AWS costs.
 
 
-[Website]([https://](https://forge.laravel.com/))
+[Website](https://forge.laravel.com/)
